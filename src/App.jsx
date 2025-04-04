@@ -3,7 +3,7 @@ import React from "react";
 import "./index.css";
 import { About } from "./pages/about";
 import Testimonial from "./pages/Testimonial";
-import Projet from "./pages/projet";
+import Projet from "./pages/Projet";
 import Contact from "./pages/Contact";
 import { ToastContainer } from "react-toastify";
 import Footer from "./pages/Footer";
