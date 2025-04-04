@@ -14,7 +14,7 @@ Une application web moderne développée avec **React**, **Vite**, **Tailwind CS
 
 ## ⚙️ Stack utilisée
 
-- [React 18](https://react.dev)
+- [React 19](https://react.dev)
 - [Vite](https://vitejs.dev)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router](https://reactrouter.com/)
