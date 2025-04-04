@@ -23,6 +23,13 @@ Une application web moderne développée avec **React**, **Vite**, **Tailwind CS
 
 ---
 
+## 📬 À propos
+
+Développé avec passion par [Johnny Goldsoft](https://github.com/johnnygoldsoft) 👨‍💻
+N'hésite pas à me suivre, à cloner le projet ou à proposer des améliorations !
+
+---
+
 ## 🛠️ Lancer en local
 
 ```bash
@@ -38,7 +45,3 @@ npm install
 # Lancer le serveur local
 npm run dev
 
-
-## 📬 À propos
-Développé avec passion par [Johnny Goldsoft](https://github.com/johnnygoldsoft) 👨‍💻
-N'hésite pas à me suivre, à cloner le projet ou à proposer des améliorations !
