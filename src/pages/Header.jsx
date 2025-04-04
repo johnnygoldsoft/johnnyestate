@@ -11,7 +11,7 @@ const backgroundImages = [
 
 // Liste des textes du header
 const headerTexts = [
-  "Explorer la maison de vos rêves ",
+  "Explorer la maison de vos rêves ...",
   "Trouvez la maison parfaite pour vous",
   "Vivez dans un espace conçu pour vous",
 ];
