@@ -8,7 +8,7 @@ Une application web moderne développée avec **React**, **Vite**, **Tailwind CS
 
 ## 📸 Aperçu
 
-![Aperçu du site](https://user-images.githubusercontent.com/00000000/preview.png) <!-- remplace par un vrai screenshot ou gif + lien -->
+![Aperçu du site](https://github.com/johnnygoldsoft/johnnyestate/blob/main/screenshot.png) <!-- remplace par un vrai screenshot ou gif + lien -->
 
 ---
 
@@ -37,3 +37,8 @@ npm install
 
 # Lancer le serveur local
 npm run dev
+
+
+## 📬 À propos
+Développé avec passion par [Johnny Goldsoft](https://github.com/johnnygoldsoft) 👨‍💻
+N'hésite pas à me suivre, à cloner le projet ou à proposer des améliorations !
